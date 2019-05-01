@@ -1,0 +1,9 @@
+Name: Mohammad Haseeb [mhaseeb@purdue.edu]
+
+- Python Verison:	3.6.5
+- numpy version: 	1.13.3
+- pandas version: 	0.22.0
+
+Runtime Notes:
+- kmeans_analysis.py takes ~3 hours to execute on cs.data.purdue.edu
+- The rest of the scripts are fairly fast.
